@@ -1,0 +1,4 @@
+"hola" + 3
+5 == "5"
+5 && true
+"hola" + " mundo"
